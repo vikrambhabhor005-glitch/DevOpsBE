@@ -5,7 +5,7 @@ import time
 
 app = FastAPI(
     title="React DevOps Demo API",
-    description="Backend API for React DevOps practice",
+    description="Backend API for React DevOps practice and also learn git & github",
     version="1.0.0"
 )
 
