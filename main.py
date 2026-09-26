@@ -69,7 +69,7 @@ async def root():
 async def test_api():
 
     return {
-        "message": "Hello from FastAPI 🚀",
+        "message": "Hello from FastAPI & deploy pipeline succesfull 🚀",
         "status": "success"
     }
 
